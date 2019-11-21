@@ -1,6 +1,6 @@
-FuzzyModbus v0.3
+FuzzyModbus v0.4
 =====================
-ModbusTCP Fuzzing and DoS Tool.
+ModbusTCP Fuzzing and DoS Tool.(Python 3)
 
 Install and Usage:
 -------------
